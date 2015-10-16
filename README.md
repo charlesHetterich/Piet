@@ -1,5 +1,5 @@
 #Piet
-#####April 2015
+######April 2015
 
 This was one of the first big projects I got to work on in a while becuase in 11th grade it was difficult to find a lot of time to consistently program. I was comming up with ideas for this game for several months, and I spent all of my spring break working on it so I had a very clear idea of what I wanted. The original inspiration for Piet was the artist Piet Mondrian. I wanted to make a game that looked like his art.
 
